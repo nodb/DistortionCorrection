@@ -37,7 +37,12 @@
 
 
 ## 📸 렌즈 왜곡 보정 결과 데모
+- 카메라 : 갤럭시S22U 0.6배율
+  
+![image](https://github.com/nodb/DistortionCorrection/assets/71473708/6f5bce4d-bb1d-4ea3-848e-b0708c2627c6)
+
 
 
 ## 시연
+[동영상 시연](https://youtu.be/1BX8ZkZdgUM)
 
