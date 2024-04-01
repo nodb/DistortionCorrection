@@ -44,5 +44,11 @@
 
 
 ## 시연
-[동영상 시연](https://youtu.be/1BX8ZkZdgUM)
+- [동영상 시연 1](https://youtu.be/1BX8ZkZdgUM)
+- 원본 ![원본](https://github.com/nodb/DistortionCorrection/assets/71473708/4babf917-f81c-4fc2-8716-bc41799386d1)
+- 왜곡 보정 ![왜곡 보정](https://github.com/nodb/DistortionCorrection/assets/71473708/eecd430d-c276-41dc-ba08-d030370e4615)
+- [동영상 시연 2](https://youtu.be/IO10TNj8Lrc)
+- 원본 ![원본](https://github.com/nodb/DistortionCorrection/assets/71473708/64b1ffeb-56fe-4d64-a751-be104160910d)
+- 왜곡 보정 ![왜곡 보정](https://github.com/nodb/DistortionCorrection/assets/71473708/8f76a7c9-c69c-47fe-8154-04aec58be9ca)
+
 
